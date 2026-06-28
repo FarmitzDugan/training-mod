@@ -22,13 +22,6 @@
 			"io.github.farmitzdugan.trainingmod.client.TrainingModClient"
 		]
 	},
-	"mixins": [
-		"training-mod.mixins.json",
-		{
-			"config": "training-mod.client.mixins.json",
-			"environment": "client"
-		}
-	],
 	"depends": {
 		"fabricloader": ">=0.19.3",
 		"minecraft": "~26.2",
