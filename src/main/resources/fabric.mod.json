@@ -3,15 +3,16 @@
 	"id": "training-mod",
 	"version": "${version}",
 	"name": "Training Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A learning-focused Fabric mod for Minecraft.",
 	"authors": [
-		"Me!"
+		"FarmitzDugan"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/FarmitzDugan/training-mod",
+		"sources": "https://github.com/FarmitzDugan/training-mod",
+		"issues": "https://github.com/FarmitzDugan/training-mod/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/training-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
