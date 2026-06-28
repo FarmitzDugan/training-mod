@@ -1,3 +1,4 @@
 {
-  "item.training-mod.training_token": "Training Token"
+  "item.training-mod.training_token": "Training Token",
+  "message.training-mod.training_started": "Training session started!"
 }
