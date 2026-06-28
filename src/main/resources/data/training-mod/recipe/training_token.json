@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GIG",
+    " G "
+  ],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "I": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "training-mod:training_token"
+  }
+}
