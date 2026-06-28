@@ -14,7 +14,7 @@ import java.util.function.Function;
 public final class ModItems {
     public static final Item TRAINING_TOKEN = register(
             "training_token",
-            Item::new,
+            TrainingTokenItem::new,
             new Item.Properties()
     );
 
